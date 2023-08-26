@@ -14,3 +14,6 @@ This extensions does this for you in less than a second.
 [Screencast from 25-08-23 21:16:16.webm](https://github.com/JulianKominovic/sittly-translator/assets/70329467/4c1f2299-03aa-4046-860b-a4ad55a046b0)
 
 ![image](https://github.com/JulianKominovic/sittly-translator/assets/70329467/45b7185c-353c-4e10-b0a6-7f405fc2a156)
+
+## visit Sittly homepage
+https://sittly.vercel.app/
