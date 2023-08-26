@@ -1,4 +1,5 @@
-![image](https://github.com/JulianKominovic/sittly-translator/assets/70329467/bf1d8a93-720b-4385-8abb-9a3bc136be67)
+![image](https://github.com/JulianKominovic/sittly-translator/assets/70329467/283d1f63-7b34-41ec-9ef0-5d252334a688)
+
 
 # Sittly translator
 No need to open chrome, go to the browser and search 'translator', paste the text and copy the result, then go back to the origin window or tab.
