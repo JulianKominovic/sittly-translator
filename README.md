@@ -1,6 +1,10 @@
+![image](https://github.com/JulianKominovic/sittly-translator/assets/70329467/bf1d8a93-720b-4385-8abb-9a3bc136be67)
+
 # Sittly translator
 No need to open chrome, go to the browser and search 'translator', paste the text and copy the result, then go back to the origin window or tab.
 This extensions does this for you in less than a second.
+
+![Frame 9](https://github.com/JulianKominovic/sittly-translator/assets/70329467/cbeb21ed-ab24-4a99-80c1-719295d9b0bb)
 
 
 ## 😱 Features
